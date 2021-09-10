@@ -39,7 +39,6 @@
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Heroku](https://img.shields.io/badge/Heroku-05122A?style=flat&logo=heroku&logoColor=white)&nbsp;
 
 
