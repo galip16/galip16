@@ -7,6 +7,8 @@
 
 <div align="center">  <img alt="developer" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"> </div>
  
+ 
+ ### 🌎 &nbsp;Über mich
 
 
 ### 🛠 &nbsp;Tech Stack
