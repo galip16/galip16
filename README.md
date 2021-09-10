@@ -5,9 +5,9 @@
  
 </h1>
 
-<div align="left" > ![Galip's github stats](https://github-readme-stats.vercel.app/api?username=galip16&show_icons=true&hide_border=true)   </div>
+![Galip's github stats](https://github-readme-stats.vercel.app/api?username=galip16&show_icons=true&hide_border=true)   
 <div align="center">  <img alt="developer" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"> </div>
-<div align="right" > ![Galip's github stats](https://github-readme-stats.vercel.app/api?username=galip16&show_icons=true&hide_border=true)   </div>
+![Galip's github stats](https://github-readme-stats.vercel.app/api?username=galip16&show_icons=true&hide_border=true)   
  
  </br>
  
