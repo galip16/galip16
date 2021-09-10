@@ -1,12 +1,8 @@
 ### 
 <h1 align="center">
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
-  </a>
-  Hi, my Name ist Galip <br> Ich bin ein &lt;Webentwickler/&gt;!
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
-  </a>
+  
+  Hi, my Name ist Galip <br> Ich bin ein &lt;Webentwickler/&gt;
+ 
 </h1>
 
 <div align="center">  <img alt="developer" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"> </div>
