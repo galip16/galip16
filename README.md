@@ -8,6 +8,7 @@
 <div align="center">  <img alt="developer" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"> </div>
  
  
+ 
  ### 🌎 &nbsp;Über mich
  
 - :office: &nbsp;Ich suche momentan ein Praktikumsplatz **[84.51°]**
@@ -15,6 +16,8 @@
 - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
+
+
 
 ### 🛠 &nbsp;Entwicklerfähigkeiten
 
@@ -40,7 +43,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Heroku](https://img.shields.io/badge/Heroku-05122A?style=flat&logo=heroku&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=black)&nbsp;
 
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -51,20 +54,4 @@
 
 
 
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-
-
-### 👉 Frontend Development
-
-
-### 👉 Databases & Cloud Hosting
-
-
-
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
-  &emsp;
 
