@@ -17,8 +17,9 @@
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
-/
-/
+</br>
+----------------------------------------------
+</br>
 
 ### 🛠 &nbsp;Entwicklerfähigkeiten
 
