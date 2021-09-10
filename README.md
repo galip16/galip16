@@ -10,17 +10,15 @@
 <div align="center">  <img  width="400px" alt="developer" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"> </div>
 
 
-![Galip's github stats](https://github-readme-stats.vercel.app/api?username=galip16&show_icons=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galip16)
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=galip16&&show_icons=true&theme=radical&line_height=27&v=5" alt="Aryan's GitHub Stats" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=galip16&show_icons=true&hide_border=true" /> 
 </p>
 
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galip16&theme=radical&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galip16" />
 </p>
 
  
