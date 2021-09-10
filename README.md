@@ -15,11 +15,10 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=galip16&show_icons=true&hide_border=true" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galip16" />
 </p>
 
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galip16" />
-</p>
+
 
  
  </br>
