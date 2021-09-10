@@ -14,8 +14,8 @@
 
 
 <div align="center">
-<img height="70vh" src="https://github-readme-stats.vercel.app/api?username=galip16&show_icons=true&hide_border=true" /> 
-<img height="70vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=galip16" />
+<img height="150vh" src="https://github-readme-stats.vercel.app/api?username=galip16&show_icons=true&hide_border=true" /> 
+<img height="150vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=galip16" />
 </div>
 
 
