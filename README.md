@@ -8,6 +8,11 @@
 <div align="center">  <img alt="developer" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"> </div>
  
  </br>
+ 
+ <div align="center" >
+  
+![Galip's github stats](https://github-readme-stats.vercel.app/api?username=galip16&show_icons=true&hide_border=true)
+  </div>
 
  
  ### 🌎 &nbsp;Über mich
@@ -52,8 +57,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+</br>
 
 
-![Galip's github stats](https://github-readme-stats.vercel.app/api?username=galip16&show_icons=true&hide_border=true)
 
 
