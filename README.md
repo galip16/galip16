@@ -55,6 +55,6 @@
 
 ----------------------------------------------
 
-
+[<img align="center" width="350" src="https://github-readme-stats.vercel.app/api?username=galip16&show_icons=true"/>](https://github.com/galip16/)
 
 
