@@ -14,6 +14,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galip16)
 
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=galip16&&show_icons=true&theme=radical&line_height=27&v=5" alt="Aryan's GitHub Stats" /> 
+</p>
+
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galip16&theme=radical&layout=compact" />
+</p>
+
  
  </br>
  
