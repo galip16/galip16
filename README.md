@@ -4,8 +4,9 @@
   Hi, my Name ist Galip <br> Ich bin ein &lt;Webentwickler/&gt;
  
 </h1>
-
+<div align="left" > ![Galip's github stats](https://github-readme-stats.vercel.app/api?username=galip16&show_icons=true&hide_border=true)   </div>
 <div align="center">  <img alt="developer" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"> </div>
+<div align="right" > ![Galip's github stats](https://github-readme-stats.vercel.app/api?username=galip16&show_icons=true&hide_border=true)   </div>
  
  </br>
  
@@ -46,9 +47,7 @@
 
 </br>
 
- <div align="center" >
-  
-![Galip's github stats](https://github-readme-stats.vercel.app/api?username=galip16&show_icons=true&hide_border=true)
-  </div>
+
+
 
 
