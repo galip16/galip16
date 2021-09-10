@@ -9,7 +9,7 @@
   </a>
 </h1>
 
-<div>  <img alt="developer" src="ht https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"> </div>
+<div>  <img alt="developer" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"> </div>
  
 
 
