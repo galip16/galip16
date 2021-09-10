@@ -9,8 +9,11 @@
 
 <div align="center">  <img  width="400px" alt="developer" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"> </div>
 
-![Galip's github stats](https://github-readme-stats.vercel.app/api?username=galip16&show_icons=true&hide_border=true)  
-![Galip's github stats](https://github-readme-stats.vercel.app/api?username=galip16&show_icons=true&hide_border=true)  
+<div>
+  ![Galip's github stats](https://github-readme-stats.vercel.app/api?username=galip16&show_icons=true&hide_border=true)  
+  </div>
+
+
  
  </br>
  
