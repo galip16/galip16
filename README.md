@@ -46,8 +46,8 @@
 
 
 <div align="center">
-<img height="250vh" width="400px" src="https://github-readme-stats.vercel.app/api?username=galip16&show_icons=true&hide_border=true" /> 
-<img height="250vh" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galip16" />
+<img height="250vh" src="https://github-readme-stats.vercel.app/api?username=galip16&show_icons=true&hide_border=true" /> 
+<img height="250vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=galip16" />
 </div>
 
 
