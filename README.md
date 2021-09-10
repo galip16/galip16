@@ -5,26 +5,9 @@
  
 </h1>
 
-
-
 <div align="center">  <img  width="400px" alt="developer" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"> </div>
-
-
-
-
-
-<div align="center">
-<img height="250vh" src="https://github-readme-stats.vercel.app/api?username=galip16&show_icons=true&hide_border=true" /> 
-<img height="250vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=galip16" />
-</div>
-
-
-
  
  </br>
- 
-
-
  
  ### 🌎 &nbsp;Über mich
  
@@ -59,6 +42,14 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 </br>
+
+
+
+<div align="center">
+<img height="250vh" src="https://github-readme-stats.vercel.app/api?username=galip16&show_icons=true&hide_border=true" /> 
+<img height="250vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=galip16" />
+</div>
+
 
 
 
