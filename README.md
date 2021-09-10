@@ -9,7 +9,12 @@
  
  
  ### 🌎 &nbsp;Über mich
-
+ 
+- :office: &nbsp;Ich suche momentan ein Praktikumsplatz **[84.51°]**
+- :seedling: &nbsp;ich lerne gerade **Vue**
+- :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 ### 🛠 &nbsp;Tech Stack
 
