@@ -7,7 +7,8 @@
 
 <div align="center">  <img alt="developer" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"> </div>
  
- 
+ </br>
+
  
  ### 🌎 &nbsp;Über mich
  
@@ -17,7 +18,6 @@
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
-</br>
 
 </br>
 
