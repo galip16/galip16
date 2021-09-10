@@ -3,7 +3,7 @@
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-  Hello, ich bin &lt;Galip/&gt;!
+  Hi, ich bin Galip und ein &lt;Webentwickler/&gt;!
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
