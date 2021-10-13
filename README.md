@@ -12,7 +12,7 @@
  ### 🌎 &nbsp;Über mich
  
 - :office: &nbsp;Ich suche momentan ein Praktikumsplatz..
-- :seedling: &nbsp;ich lerne gerade **Vue.js**
+- :seedling: &nbsp;ich lerne gerade **Typescript**
 - :speech_balloon: &nbsp;Dinge, die ich gerne tue; **Sport** and **Reise**
 - :mailbox: &nbsp;für weitere Informationen über mich **[Portfolio]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]** oder **[Gmail]**
