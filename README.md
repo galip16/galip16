@@ -11,7 +11,7 @@
  
  ### 🌎 &nbsp;Über mich
  
-- :office: &nbsp;Ich freue mich auf die Zusammenarbeit mit einem netten Team..
+- :office: &nbsp;Ich freue mich darauf, an großen und wichtigen Projekten mitzuwirken...
 - :seedling: &nbsp;ich lerne gerade **Typescript**
 - :speech_balloon: &nbsp;Dinge, die ich gerne tue; **Sport** and **Reise**
 - :mailbox: &nbsp;für weitere Informationen über mich **[My Portfolio](https://galip16.herokuapp.com/ )**
