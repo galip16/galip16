@@ -1,7 +1,7 @@
 ### 
 <h1 align="center">
   
-  Hi, my name is Galip <br> Ich bin ein &lt;Webentwickler/&gt;
+  Hi, mein name ist Galip <br> Ich bin ein &lt;Webentwickler/&gt;
  
 </h1>
 
