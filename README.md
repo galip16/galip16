@@ -14,7 +14,7 @@
 - :office: &nbsp;Ich freue mich auf die Zusammenarbeit mit einem netten Team..
 - :seedling: &nbsp;ich lerne gerade **Typescript**
 - :speech_balloon: &nbsp;Dinge, die ich gerne tue; **Sport** and **Reise**
-- :mailbox: &nbsp;für weitere Informationen über mich **[https://galip16.herokuapp.com/]**
+- :mailbox: &nbsp;für weitere Informationen über mich **[ https://galip16.herokuapp.com/ ]**
 - :computer: &nbsp;Connect with me on **[https://www.linkedin.com/in/galip-savut-7200bb211/]**
 
 
