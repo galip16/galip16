@@ -11,11 +11,9 @@
  
  ### 🌎 &nbsp;Über mich
  
-- :office: &nbsp;Ich freue mich darauf, an großen und wichtigen Projekten mitzuwirken...
 - :seedling: &nbsp;ich lerne gerade **Typescript**
 - :speech_balloon: &nbsp;Dinge, die ich gerne tue; **Sport** and **Reise**
 - :mailbox: &nbsp;Für weitere Informationen über mich **[My Portfolio](https://galip16.herokuapp.com/ )**
-- :computer: &nbsp;Um mich zu erreichen **[Linkedin](https://www.linkedin.com/in/galip-savut-7200bb211/)**
 
 
 </br>
