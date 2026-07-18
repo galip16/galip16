@@ -6,14 +6,6 @@
 </h1>
 
 <div align="center">  <img  width="400px" alt="developer" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"> </div>
- 
- </br>
- 
- ### 🌎 &nbsp;Über mich
- 
-- :seedling: &nbsp;ich lerne gerade **Typescript**
-- :speech_balloon: &nbsp;Dinge, die ich gerne tue; **Sport** and **Reise**
-- :mailbox: &nbsp;Für weitere Informationen über mich **[My Portfolio](https://galip16.herokuapp.com/ )**
 
 
 </br>
